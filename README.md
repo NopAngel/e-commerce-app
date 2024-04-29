@@ -1,2 +1,3 @@
-# masp.js
-Librery Animations. Using Javascript
+# E-commerce App
+
+E-commerce App using ReactJS, TailwindCSS and MySQL
